@@ -1,98 +1,40 @@
-# All-Python-Projects-
+<h1 align="center">🔥 ALL Python Projects 🔥</h1>
 
-<h1 align="center"> All-In-One-Python-Projects </h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://socialify.git.ci/Guardiansofcode/ALL-python-projects/image?description=1&font=Righteous&language=1&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F616%2F616490.png&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" />
+</p>
 
-<!-- banner -->
-![All-In-One-Python-Projects](https://socialify.git.ci/king04aman/all-in-one-python-projects/image?description=1&font=Jost&language=1&logo=https%3A%2F%2Fimages.weserv.nl%2F%3Furl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62813940%3Fv%3D4%26h%3D250%26w%3D250%26fit%3Dcover%26mask%3Dcircle%26maxage%3D7d&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/Guardiansofcode"><img src="https://forthebadge.com/images/badges/built-with-love.svg" /></a>
+  <a href="#"><img src="https://forthebadge.com/images/badges/made-with-python.svg" /></a>
+  <br/>
+  <img src="https://img.shields.io/github/issues/Guardiansofcode/ALL-python-projects.svg" />
+  <img src="https://img.shields.io/github/contributors/Guardiansofcode/ALL-python-projects.svg" />
+  <img src="https://img.shields.io/github/repo-size/Guardiansofcode/ALL-python-projects.svg" />
+  <img src="https://img.shields.io/github/languages/top/Guardiansofcode/ALL-python-projects.svg" />
+  <img src="https://img.shields.io/github/issues-pr/Guardiansofcode/ALL-python-projects.svg" />
+</p>
 
-<!-- project badges -->
-[![BuiltByDev](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/king04aman)
-[![BuiltWithLov](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/king04aman)
-[![MadeWithPy](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/king04aman)
-<br/>
-![Issues](https://img.shields.io/github/issues/king04aman/All-In-One-Python-Projects.svg)
-![Contributors](https://img.shields.io/github/contributors/king04aman/All-In-One-Python-Projects.svg)
-![SizeInBytes](https://img.shields.io/github/repo-size/king04aman/All-In-One-Python-Projects.svg)
-![TopLanguage](https://img.shields.io/github/languages/top/king04aman/All-In-One-Python-Projects.svg)
-![PullRequests](https://img.shields.io/github/issues-pr/king04aman/All-In-One-Python-Projects.svg)
+---
 
+<h2 align="center">🧠 Project Description</h2>
 
-<h2 align="center"> Description </h2>
+> 🚀 **ALL Python Projects** is a cyber-themed, Iron Man–vibe collection of Python scripts — from beginner to elite hacker level. This repository is your digital arsenal — code automation, AI tools, CLI utilities, mini-games, bots, and much more. Dive in, contribute, and become a Guardian of Code.
 
-_All-In-One-Python-Projects is a collection of all scripts starting from very basic to advance scripts. This is your personal zone where you may search or add any new scripts that can simplify your or other developer's life and give them something to do when they're bored. Start producing exciting scripts that benefit the community._
+---
 
-<hr>
+## ⚙️ Getting Started
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These steps will get you up and running locally:
 
-## Prerequisites
-- Python 3.x
+### ✅ Prerequisites
+- Python 3.x installed
 
-## Installing
-1. Clone the repository to your local machine
-    ```bash
-    git clone https://github.com/king04aman/All-In-One-Python-Projects.git
-    ```
-2. Change directory into the cloned repository
-    ```bash
-    cd All-In-One-Python-Projects/<Project_name>
-    ``` 
-3. Install the required libraries
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the program using
-    ```bash
-    python3 <script_name>.py
-    ```
-
-<hr>
-
-<h2 align='center'> Contribution Guide</h2>
-
-- Have a look at [Contributing Guidelines](CONTRIBUTING.md).
-- Take a look at the existing issues or create your own issues.
-- Avoid making pull request unless you are assigned with the issue.
-- Select the project on which you want to work or you can add your own project.
-- Create an issue with description on which project you want to work and wait for approval.
-- While making pull request add issue number with `#` (for example `#04`)
-- After approval fork this repository, add your changes then make pull request with issue number and wait for review.
-- Star this repository. 🌟
-
-
-<h2 align=center> Awesome Contributors 🤩 </h2>
-
-Thanks go to these **Wonderful Contributors** ✨✨:
-
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/king04aman/All-In-One-Python-Projects/graphs/contributors">
-	    	<img src="https://contrib.rocks/image?repo=king04aman/All-In-One-Python-Projects" />
-	    </a>
-		</td>
-	</tr>
-</table>
-
-<hr>
-
-<h2 align='center'>Project Maintainer </h2>
-
-<table>
-	<tr>
-        <td align="center">
-            <a href="https://github.com/king04aman">
-            <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62813940?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d" width=100px height=100px />
-            </a></br> 
-            <h4 style="color:#ff8c00;font-weight: bolder; font-size: 15px">Aman Kumar</h4>
-        </td>
-    </tr>
-</table>
-
-## License
-*This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.*
-
-
-<hr>
-<h3 align='center'>🎉 😃 Happy Hacking 😃 🎉 </h3>
+### 📥 Installation
+```bash
+git clone https://github.com/Guardiansofcode/ALL-python-projects.git
+cd ALL-python-projects/<project_folder>
+pip install -r requirements.txt
+python3 <script_name>.py
