@@ -64,3 +64,36 @@ pynexus/
 ├── ui/ # Streamlit and CLI interfaces
 ├── main.py # Entry point
 └── requirements.txt
+
+## 🔍 Use Cases
+
+> **Real-world applications of PyNexus — where intelligence meets automation.**
+
+---
+
+### 📅 1. Rapid Meeting Summaries  
+Turn long meetings into actionable documents and flowcharts — all in **under 60 seconds**.
+
+---
+
+### 🧠 2. Semantic Topic Extraction from Audio  
+Extract meaningful insights, themes, and context from voice recordings using **AI-powered NLP**.
+
+---
+
+### 📂 3. Document Generation from Code or Speech  
+Transform your codebases or spoken instructions into **well-structured DOCX or PDF documents**.
+
+---
+
+### 🗃️ 4. Vector Retrieval for Contextual Search  
+Use embedded vector databases like **ChromaDB** for **semantic search and intelligent retrieval** across content.
+
+---
+
+### 🎛️ 5. AI-Powered Workflow Visualizations  
+Create **intelligent, logic-driven flowcharts** from text, voice, or code — visualizing logic and architecture like never before.
+
+---
+
+
