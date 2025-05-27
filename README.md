@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=F71313&center=true&vCenter=true&width=900&height=80&lines=⚙️+ALL+PYTHON+PROJECTS+⚙️;🧠+By+Guardians+of+Code+🧠;💻+Automate+%7C+Build+%7C+Hack+%7C+Repeat+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=F71313&center=true&vCenter=true&width=900&height=80&lines=⚙️+PyNexus+⚙️;🧠+By+Guardians+of+Code+🧠;💻+Automate+%7C+Build+%7C+Hack+%7C+Repeat+💻" />
 </h1>
 
 <p align="center">
