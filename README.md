@@ -113,17 +113,6 @@ From natural language processing to diagrammatic reasoning and embedded vector s
 
 ---
 
-## 📁 Project Structure
-
-pynexus/
-├── echologic/ # Voice-to-flow & doc project
-├── semantic_engines/ # LLM-based reasoning tools
-├── rag_engine/ # ChromaDB + nomic-based retrieval
-├── visualizer/ # Graph and flowchart generators
-├── utils/ # Helper functions and wrappers
-├── ui/ # Streamlit and CLI interfaces
-├── main.py # Entry point
-└── requirements.txt
 
 ## 🔍 Use Cases
 
