@@ -1,0 +1,6 @@
+
+🎉 Hello, User!
+🔹 You are 21 years old.
+🔸 That's approximately 257 months.
+🔻 Or a galactic 7819 days on Earth.
+🧠 Calculated with leap-year precision by PyNexus.
