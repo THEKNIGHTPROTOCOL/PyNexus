@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PyNexus Alarm Clock</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f2f5;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 750px;
+            width: 100%;
+            margin: 20px auto;
+            background: #ffffff;
+            padding: 30px 40px;
+            border-radius: 12px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+            border: 1px solid #e0e0e0;
+        }
+        h1 {
+            color: #1a237e;
+            text-align: center;
+            margin-bottom: 25px;
+            font-size: 2.2em;
+            font-weight: 700;
+        }
+        h2 {
+            color: #2c387e;
+            border-bottom: 2px solid #e8eaf6;
+            padding-bottom: 10px;
+            margin-top: 35px;
+            margin-bottom: 20px;
+            font-size: 1.6em;
+            font-weight: 600;
+        }
+        p {
+            margin-bottom: 15px;
+            color: #555;
+            font-size: 1.05em;
+        }
+        ul {
+            list-style-type: none; /* Remove default bullet */
+            padding-left: 0;
+            margin-left: 20px;
+        }
+        ul li {
+            position: relative;
+            margin-bottom: 10px;
+            padding-left: 25px; /* Space for custom bullet */
+            font-size: 1.05em;
+            color: #444;
+        }
+        ul li::before {
+            content: "•"; /* Custom bullet */
+            color: #3f51b5; /* Bullet color */
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+            position: absolute;
+            left: 0;
+        }
+        ol {
+            list-style-type: decimal;
+            margin-left: 25px;
+            font-size: 1.05em;
+            color: #444;
+        }
+        ol li {
+            margin-bottom: 10px;
+        }
+        pre {
+            background: #e8eaf6;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 0.95em;
+            line-height: 1.4;
+            border: 1px solid #c5cae9;
+        }
+        code {
+            font-family: 'Consolas', 'Monaco', monospace;
+            background-color: #f0f0f0;
+            padding: 2px 5px;
+            border-radius: 4px;
+            color: #c2185b;
+        }
+        strong {
+            color: #3949ab;
+            font-weight: 600;
+        }
+        .separator {
+            border: 0;
+            height: 1px;
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(150, 150, 150, 0.75), rgba(0, 0, 0, 0));
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1># PyNexus Alarm Clock ⏰</h1>
+        <p>This is a simple alarm clock application built with Python and Tkinter. It lets you set an alarm, shows the current time, and plays a sound when the alarm goes off!</p>
+
+        <hr class="separator">
+
+        <h2>Features ✨</h2>
+        <ul>
+            <li><strong>Easy-to-use Interface</strong>: A friendly graphical interface made with Tkinter.</li>
+            <li><strong>Real-time Clock</strong>: Always displays the current time (hour, minute, second).</li>
+            <li><strong>Set Your Alarm</strong>: Pick your desired hour, minute, and second using dropdowns.</li>
+            <li><strong>Sound Alert</strong>: Plays a <code>sound.wav</code> file when the alarm time hits (you can add your own!).</li>
+            <li><strong>Runs Smoothly</strong>: The alarm checking works in the background so the app stays responsive.</li>
+        </ul>
+
+        <hr class="separator">
+
+        <h2>How to Use 🚀</h2>
+        <ol>
+            <li><strong>Save the code</strong>: Save the provided Python code as <code>alarm_clock.py</code>.</li>
+            <li><strong>Add a sound (optional)</strong>: If you want an audible alarm, put a <code>.wav</code> sound file named <code>sound.wav</code> in the same folder as your script. If you don't have one, the alarm will still show a message!</li>
+            <li><strong>Run it</strong>: Open your terminal or command prompt, navigate to the folder where you saved the file, and run:
+                <pre><code>python alarm_clock.py</code></pre>
+            </li>
+            <li><strong>Set the time</strong>: Use the dropdown menus to choose the hour, minute, and second for your alarm.</li>
+            <li><strong>Click "Set Alarm"</strong>: Hit the "🔔 Set Alarm" button to activate it.</li>
+            <li><strong>That's it!</strong>: The alarm will pop up a message and play your sound when the time comes.</li>
+        </ol>
+
+        <hr class="separator">
+
+        <h2>Requirements 🛠️</h2>
+        <ul>
+            <li><strong>Python 3</strong>: Make sure you have Python 3 installed.</li>
+            <li><strong>Tkinter</strong>: This usually comes with Python, so you probably already have it!</li>
+            <li><strong><code>winsound</code></strong>: This module is used for playing sounds and is built into Windows. If you're on macOS or Linux, you'll need to swap this out for a different sound-playing library (like <code>playsound</code> or <code>pygame.mixer</code>).</li>
+        </ul>
+    </div>
+</body>
+</html>
