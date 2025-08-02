@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import Frame, StringVar, Entry, Button, Label, LEFT, TOP, messagebox
   
 class Application(Frame):
-    def __init__(self, master):
+    def __init__(self, master): 
         super().__init__(master)
         self.master = master
         self.pack()
