@@ -8,7 +8,7 @@ from langchain.indexes import VectorstoreIndexCreator
 from langchain.indexes.vectorstore import VectorStoreIndexWrapper
 from langchain.vectorstores import Chroma
 
-# === CONFIGURATION ===
+# === CONFIGURATION === 
 DATA_DIR = "data/"
 PERSIST_DIR = "persist"
 MODEL_NAME = "gpt-3.5-turbo"  # Change to "gpt-4" if needed
