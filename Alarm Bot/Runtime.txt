@@ -1,6 +1,6 @@
 # Creating the output text for the PyNexus-themed alarm clock UI code
 alarm_clock_code = '''
-from tkinter import *
+from tkinter import * 
 from datetime import datetime
 import time
 import winsound
