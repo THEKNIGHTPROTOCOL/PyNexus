@@ -4,7 +4,7 @@ class CurrencyConverter:
     """
     A currency converter class that fetches exchange rates from the Fixer.io API.
     """
-    def __init__(self, access_key):
+    def __init__(self, access_key):    
         """
         Initializes the CurrencyConverter with an API access key.
 
