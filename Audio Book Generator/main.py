@@ -1,5 +1,5 @@
 # 🔊🎧 PYNEXUS - Your Personal PDF-to-Audio Converter 🚀
-# Cool, Funky & Professional 🤘 by GuardiansOfCode
+# Cool, Funky & Professional 🤘 
     
 from gtts import gTTS
 import PyPDF2
