@@ -2,7 +2,7 @@
 # Cool, Funky & Professional 🤘 
     
 from gtts import gTTS
-import PyPDF2
+import PyPDF2 
 import os
 
 # 📂 Load your PDF file
