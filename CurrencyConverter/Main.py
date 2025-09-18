@@ -1,6 +1,6 @@
 import requests 
 
-class CurrencyConverter:
+class CurrencyConverter: 
     """
     A currency converter class that fetches exchange rates from the Fixer.io API.
     """
